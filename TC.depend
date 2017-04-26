@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1493227847 source:/home/gunjan/Desktop/OpenGL proj/Triangular Clock/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+
